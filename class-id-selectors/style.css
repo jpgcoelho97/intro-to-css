@@ -1,0 +1,19 @@
+.subsaction{
+    background-color: lightpink;
+    font-family: verdana 'Gill Sans' sans-serif;
+}
+
+#two{
+    color: blue;
+    font-size: 36px;
+}
+
+.subsaction.tree{
+    font-size: 24px;
+}
+
+#four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
